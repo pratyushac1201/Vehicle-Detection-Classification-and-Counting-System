@@ -1,0 +1,8 @@
+path: C:\Internship py\Data
+train: images
+val: images
+
+nc: 2
+names: ['Two wheeler(Bikes,Scooter,Cycle)','Auto(Three Wheeler)','Four Wheeler(Cars,Mini-Trucks,Taxi)','Large Vehicles(Lorry,Trucks,Tanker),']
+
+
